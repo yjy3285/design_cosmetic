@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "93539988893",
+    "firebase_url": "https://hufs-fc8d8-default-rtdb.firebaseio.com",
+    "project_id": "hufs-fc8d8",
+    "storage_bucket": "hufs-fc8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93539988893:android:c5cce9fb93db0d8590ab74",
+        "android_client_info": {
+          "package_name": "com.example.hufs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jjZXNsoLQPdl6Mp2voQTCk5SNgqHesI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93539988893:android:b5acc2d91ee228ec90ab74",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jjZXNsoLQPdl6Mp2voQTCk5SNgqHesI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

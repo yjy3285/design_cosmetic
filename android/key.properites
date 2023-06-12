@@ -1,0 +1,4 @@
+storePassword=Happy123
+keyPassword=Happy123
+keyAlias=upload
+storeFile=/Users/kevin/StudioProjects/hufs/android/keystore/key.jks
