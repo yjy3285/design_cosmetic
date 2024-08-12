@@ -1,16 +1,10 @@
-# hufs
+한국외대 AI융합전공
+2023-1학기 종합설계 프로젝트
+프로젝트명 : "내 피부를 지켜줘"
 
-A new Flutter project.
+각 사람의 피부타입 및 피부고민을 입력받아 그 사람의 피부타입에 맞는
+스킨케어 제품을 추천해주고 구매링크 사이트로 넘어갈 수 있게 해주는 앱을 개발.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
